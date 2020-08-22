@@ -1,0 +1,26 @@
+h1{
+  text-align: center;
+}
+/* 
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+} */ */
+
+table {
+  border-collapse: collapse;
+ 
+  margin: 0 auto;
+}
+/* 
+form{
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+} */
+/* 
+label{
+  font-weight: bold;
+  margin-right: 10px;
+} */
